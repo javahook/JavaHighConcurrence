@@ -1,2 +1,3 @@
 seckill/.idea/
 *.iml
+seckill/src/main/resources/jdbc.properties
